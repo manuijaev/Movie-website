@@ -1,0 +1,85 @@
+body{ 
+   h1{
+      color: azure;
+   }
+   p{
+      color: blanchedalmond;
+   }
+   background-image: url("transformers_4_autobots.jpg");
+   background-position: center;
+   background-size: cover
+   background-repeat: unset;
+   backface-visibility: visible;
+   background-color: aqua;
+   }
+   .header-btn
+   {
+text-decoration: black;
+border-radius: 30px;
+padding: 7px 20px;
+float: unset;
+margin-right: 15px;
+color:bisque;
+background-color:transparent;
+font-weight: 600;
+   }
+   .movie-details
+   {
+     margin: 6% 0;
+   
+   }
+   .left-box
+   {
+      color: #fff;
+   }
+   .casting img
+{
+height: 70px;
+width: 70px;
+margin-right: 10px;
+cursor: pointer;
+}
+.download-btn
+{
+   text-decoration: black;
+   border-radius: 30px;
+   padding: 7px 20px;
+   margin-top: 35px;
+   color: bisque;
+   background-color:transparent;
+   font-weight: 600;
+   display: inline-block;
+   margin-right: 10px;
+   border: 1px bisque;
+}
+.watch-btn
+{
+   text-decoration: black;
+   border-radius: 30px;
+   padding: 7px 20px;
+   margin-top: 35px;
+   color:bisque;
+   background-color:transparent;
+   font-weight: 600;
+   display: inline-block;
+   margin-right: 10px;
+   border: 1px bisque;
+}
+.movie-img
+{
+   height: 350px;
+   box-shadow: -4px 4px 5px 0 #000;
+}
+.series
+{
+   h3{
+      color:blanchedalmond
+   }
+}
+.series img
+{
+   width: 100%;
+   margin-top: 15px;
+   box-shadow: -4px 4px 5px 0 #000;
+   cursor: pointer;
+}
